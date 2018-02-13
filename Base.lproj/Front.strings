@@ -7,40 +7,40 @@
 
 /* Common */
 "OK" = "OK";
-"Cancel" = "Cancel";
-"Yes" = "Yes";
-"No" = "No";
-"Close" = "Close";
-"Select" = "Select";
-"Continue" = "Continue";
-"Learn More…" = "Learn More…";
-"Untitled" = "Untitled";
-"Undo" = "Undo";
-"Dismiss" = "Dismiss";
-"Confirm" = "Confirm";
-"Error" = "Error";
+"Cancel" = "Zrušit";
+"Yes" = "Ano";
+"No" = "Ne";
+"Close" = "Zavřít";
+"Select" = "Vybrat";
+"Continue" = "Pokračovat";
+"Learn More…" = "Zjistit víc…";
+"Untitled" = "Nepojmenovaný";
+"Undo" = "Vrátit zpět";
+"Dismiss" = "Zamítnout";
+"Confirm" = "Potvrdit";
+"Error" = "Chyba";
 
 /* Search Panel */
-"Search" = "Search";
-"Replace" = "Replace";
-"All" = "All";
-"Search text not found in article" = "Search text not found in article";
-"search text" = "search text";
+"Search" = "Hledat";
+"Replace" = "Nahradit";
+"All" = "Vše";
+"Search text not found in article" = "Hledaný text nebyl nalezen";
+"search text" = "hledat text";
 
 /* Quick Open */
-"Search by file name" = "Search by file name";
-"Searching" = "Searching";
-"Gathering more results" = "Gathering more results";
+"Search by file name" = "Hledat podle názvu souboru";
+"Searching" = "Hledá se";
+"Gathering more results" = "Shromažďování dalších výsledků";
 
 /* Tables */
-"Insert Table" = "Insert Table";
-"Columns" = "Columns";
-"Rows" = "Rows";
-"Align Left" = "Align Left";
-"Align Center" = "Align Center";
-"Align Right" = "Align Right";
-"Resize Table" = "Resize Table";
-"Delete Table" = "Delete Table";
+"Insert Table" = "Vložit tabulku";
+"Columns" = "Sloupce";
+"Rows" = "Řádky";
+"Align Left" = "Zarovnat vlevo";
+"Align Center" = "Zarovnat na střed";
+"Align Right" = "Zarovnat vpravo";
+"Resize Table" = "Změnit velikost tabulky";
+"Delete Table" = "Vymazat tabulku";
 
 /* Images */
 "Copy Image To..." = "Copy Image To...";
